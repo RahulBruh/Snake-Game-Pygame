@@ -7,7 +7,11 @@ You control a hungry lil’ snake that just wants to eat… but not itself.
 ## 🚀 Getting Started
 
 -Download Pygame through python
+
+
 -open your cmd and type "py -m pip install pygame"
+
+
 -run the snake.py file and you can play snake
 
 ##🧠 Features
